@@ -1,8 +1,8 @@
 # Code Lines & Files Calculate JavaSwing
-University 5th semester project
+You can count files and read how much code your write for the project. You have to do select the folder and select the language after selecting those then click on calculate button it will show the result. See the screenshots
 
 
-![image](https://github.com/shahi5472/PSP-Java-Project/blob/master/PSP%20Picture/20664570_1329132617204286_6136912079198444865_n.jpg)
+![image](https://github.com/shahi5472/PSP-Java-Project/blob/master/PSP%20Picture/20664570_1329132617204286_6136912079198444865_n.jpg  = 250x250)
 
 ![image](https://github.com/shahi5472/PSP-Java-Project/blob/master/PSP%20Picture/20663935_1329132620537619_2012024691791306262_n.jpg)
 
