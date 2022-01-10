@@ -68,7 +68,7 @@ public class FileChooserView extends javax.swing.JFrame {
         jLabel3.setText("Select Root Folder");
 
         jComboBox1.setFont(new java.awt.Font("Lucida Grande", 0, 18)); // NOI18N
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Java", "Dart", "PHP", "C", "CPP", "JS", "TS", "XML", "PY", "ASP", "CSS", "HTML", "JSP", "CS", "Swift" }));
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Java", "Dart", "PHP", "C", "CPP", "JS", "VUE", "TS", "XML", "PY", "ASP", "CSS", "HTML", "JSP", "CS", "Swift" }));
         jComboBox1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jComboBox1ActionPerformed(evt);

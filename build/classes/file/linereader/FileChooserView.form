@@ -103,22 +103,23 @@
           <Font name="Lucida Grande" size="18" style="0"/>
         </Property>
         <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
-          <StringArray count="15">
+          <StringArray count="16">
             <StringItem index="0" value="Java"/>
             <StringItem index="1" value="Dart"/>
             <StringItem index="2" value="PHP"/>
             <StringItem index="3" value="C"/>
             <StringItem index="4" value="CPP"/>
             <StringItem index="5" value="JS"/>
-            <StringItem index="6" value="TS"/>
-            <StringItem index="7" value="XML"/>
-            <StringItem index="8" value="PY"/>
-            <StringItem index="9" value="ASP"/>
-            <StringItem index="10" value="CSS"/>
-            <StringItem index="11" value="HTML"/>
-            <StringItem index="12" value="JSP"/>
-            <StringItem index="13" value="CS"/>
-            <StringItem index="14" value="Swift"/>
+            <StringItem index="6" value="VUE"/>
+            <StringItem index="7" value="TS"/>
+            <StringItem index="8" value="XML"/>
+            <StringItem index="9" value="PY"/>
+            <StringItem index="10" value="ASP"/>
+            <StringItem index="11" value="CSS"/>
+            <StringItem index="12" value="HTML"/>
+            <StringItem index="13" value="JSP"/>
+            <StringItem index="14" value="CS"/>
+            <StringItem index="15" value="Swift"/>
           </StringArray>
         </Property>
       </Properties>
